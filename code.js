@@ -1,0 +1,1 @@
+!function(){var t,a,e=document.referrer,o=(t=e,(a=document.createElement("a")).href=t,a);(o.hostname==atob("aW50ZXJuZXQuaXI=")||o.hostname==atob("d3d3LmludGVybmV0Lmly")||o.hostname==atob("c2FtYW5kZWhpLmly")||o.hostname==atob("d3d3LnNhbWFuZGVoaS5pcg==")||o.port)&&window.location.replace("/404.html")}();
