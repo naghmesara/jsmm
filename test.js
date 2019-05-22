@@ -1,1 +1,1 @@
-!function(){window.location.replace("/404.html")})();
+(function(){window.location.replace("/404.html")})();
