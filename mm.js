@@ -1,0 +1,1 @@
+!function(){var e=function(e){var n=document.createElement("a");return n.href=e,n}(document.referrer);("internet.ir"==e.hostname||"www.internet.ir"==e.hostname||"samandehi.ir"==e.hostname||"www.samandehi.ir"==e.hostname||e.port)&&window.location.replace("/404.html")}();
