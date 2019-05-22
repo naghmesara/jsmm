@@ -1,1 +1,1 @@
-(function(){window.location.replace("/404.html")})();
+(function(){console.log(document.referer)})();
